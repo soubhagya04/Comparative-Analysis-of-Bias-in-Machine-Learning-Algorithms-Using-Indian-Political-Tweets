@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Bias-in-Machine-Learning-Algorithms-Using-Indian-Political-Tweets
+Machine Learning-based Political Sentiment Analysis of Indian Twitter data, focusing on BJP vs Congress. The project compares LightGBM, Logistic Regression, Linear SVM, Random Forest, and Naive Bayes using TF-IDF and SMOTE, while evaluating both classification accuracy and algorithmic fairness through F1 Gap and Cross-Party Accuracy Gap.
